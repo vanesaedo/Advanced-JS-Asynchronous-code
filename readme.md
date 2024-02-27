@@ -19,13 +19,13 @@ En esta ocasión, el bikram se dividirá en :crossed_swords: Pair Programming :c
 
 Utiliza la API (https://dog.ceo/dog-api/) para resolver estos ejercicios.
 
-- [ ] 1.- Declara una funcion **getAllBreeds** que devuelva todas las razas de perro.
+- [X] 1.- Declara una funcion **getAllBreeds** que devuelva todas las razas de perro.
 
-- [ ] 2.- Declara una función **getRandomDog** que obtenga una imagen random de una raza.
+- [X] 2.- Declara una función **getRandomDog** que obtenga una imagen random de una raza.
 
-- [ ] 3.- Declara una función **getAllImagesByBreed** que obtenga todas las imágenes de una raza.
+- [X] 3.- Declara una función **getAllImagesByBreed** que obtenga todas las imágenes de una raza.
 
-- [ ] 4.- Declara una funcion **getAllImagesByBreed2(breed)** que devuelva las imágenes de la raza pasada por el argumento
+- [X] 4.- Declara una funcion **getAllImagesByBreed2(breed)** que devuelva las imágenes de la raza pasada por el argumento
 
 ### GitHub API (I) - ¿Quieres saber mi información? Aquí la tienes ###
 
