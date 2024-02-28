@@ -29,7 +29,7 @@ Utiliza la API (https://dog.ceo/dog-api/) para resolver estos ejercicios.
 
 ### GitHub API (I) - ¿Quieres saber mi información? Aquí la tienes ###
 
-- [ ] 5.- Declarara una función **getGitHubUserProfile(username)** que obtenga el perfil de usuario de github a partir de su nombre de usuario. (https://api.github.com/users/{username}).
+- [X] 5.- Declarara una función **getGitHubUserProfile(username)** que obtenga el perfil de usuario de github a partir de su nombre de usuario. (https://api.github.com/users/{username}).
 
 - [ ] 6.- Declara una función **printGithubUserProfile(username)** que reciba como argumento el nombre de un usuario (username), retorne {img, name} y pinte la foto y el nombre en el DOM.
 
